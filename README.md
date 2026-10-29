@@ -1,7 +1,7 @@
 # Olá, eu sou o Taynan Pereira! 👋
 ### Full Stack Software Engineer | Node.js, React, TypeScript | AI & RAG Integrations (LangChain, Python)
 
-<img align="right" alt="gato-no-compiuter" src="https://github.com/user-attachments/assets/705236af-24ef-4228-ad4d-b7115cf8468b" />
+<img align="right" width="220" hspace="20" vspace="10" alt="gato-no-compiuter" src="https://github.com/user-attachments/assets/705236af-24ef-4228-ad4d-b7115cf8468b" />
 
 Sou **Engenheiro da Computação** e **Desenvolvedor Fullstack** focado na construção de arquiteturas escaláveis, microsserviços de alta performance e interfaces centradas na experiência do usuário (UI/UX), unindo a engenharia de software tradicional ao ecossistema de **Inteligência Artificial aplicada**.
 
