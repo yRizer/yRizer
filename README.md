@@ -61,17 +61,6 @@ Sou **Engenheiro da Computação** e **Desenvolvedor Fullstack** focado na const
 * 📍 **[Pinhal Tour – Plataforma de Turismo Inteligente (PoC)](https://lnkd.in/p/dqDznYty)**  
   Ecossistema mobile em **React Native** integrado à **Mapbox API** para traçado de rotas dinâmicas, validação de **QR Codes** em pontos históricos e **Dashboard Administrativo Web** para análise de métricas de visitação.
 
----
-
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yRizer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yRizer&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ### 📫 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/taynan-pereira-06a1b91b7/](https://www.linkedin.com/in/taynan-pereira/))
