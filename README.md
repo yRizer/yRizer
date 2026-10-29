@@ -3,7 +3,7 @@
 
 <tr>
   <td width="40%">
-    <img align="right" width="100%" alt="gato-no-compiuter" src="https://github.com/user-attachments/assets/705236af-24ef-4228-ad4d-b7115cf8468b" />
+    <img align="right" alt="gato-no-compiuter" src="https://github.com/user-attachments/assets/705236af-24ef-4228-ad4d-b7115cf8468b" />
   </td>
   <td width="60%">
 Sou **Engenheiro da Computação** e **Desenvolvedor Fullstack** focado na construção de arquiteturas escaláveis, microsserviços de alta performance e interfaces centradas na experiência do usuário (UI/UX), unindo a engenharia de software tradicional ao ecossistema de **Inteligência Artificial aplicada**.
