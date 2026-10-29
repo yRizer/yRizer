@@ -7,11 +7,11 @@
   </td>
   <td width="70%">
 Sou **Engenheiro da Computação** e **Desenvolvedor Fullstack** focado na construção de arquiteturas escaláveis, microsserviços de alta performance e interfaces centradas na experiência do usuário (UI/UX), unindo a engenharia de software tradicional ao ecossistema de **Inteligência Artificial aplicada**.
-
-- 🏛️ Atualmente sou **Engenheiro de Software Fullstack e Gestor de Plataforma Digital** no **Arquivo Histórico Pinhalense**, arquitetando ecossistemas digitais para processamento e busca semântica em larga escala.
-- 🧠 Experiência prática com **Pipelines RAG**, **LLMs (Gemini / OpenAI)**, **LangChain**, **LlamaIndex**, **Bancos Vetoriais** e **Visão Computacional (YOLO / OCR / HTR)**.
-- 🏗️ Desenvolvendo arquiteturas **SaaS Multi-tenant** com isolamento lógico de dados, mensageria assíncrona e contêineres **Docker**.
-- 📍 Espírito Santo do Pinhal - SP | Atuação em regime **Remoto / Home Office**.
+    
+  - 🏛️ Atualmente sou **Engenheiro de Software Fullstack e Gestor de Plataforma Digital** no **Arquivo Histórico Pinhalense**, arquitetando ecossistemas digitais para processamento e busca semântica em larga escala.
+  - 🧠 Experiência prática com **Pipelines RAG**, **LLMs (Gemini / OpenAI)**, **LangChain**, **LlamaIndex**, **Bancos Vetoriais** e **Visão Computacional (YOLO / OCR / HTR)**.
+  - 🏗️ Desenvolvendo arquiteturas **SaaS Multi-tenant** com isolamento lógico de dados, mensageria assíncrona e contêineres **Docker**.
+  - 📍 Espírito Santo do Pinhal - SP | Atuação em regime **Remoto / Home Office**.
   </td>
 </tr>
 
