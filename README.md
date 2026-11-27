@@ -28,7 +28,7 @@ Construo plataformas web, APIs e integrações com IA que levam dados reais até
 | **Busca Semântica em Acervos (RAG)** | Perguntas em linguagem natural com respostas embasadas nas atas e inquéritos transcritos, recuperados de um banco vetorial. | Python · LangChain · LlamaIndex · Docker |
 | [**PinhalTour**](https://github.com/yRizer/PinhalTour) | App de turismo da cidade com rotas no mapa, eventos e pontos turísticos, mais um painel web administrativo. Feito em trio. | React Native · Expo · Mapbox · Node.js |
 | [**API da Vinícola (TCC)**](https://github.com/yRizer/TestesTccVinicola) | Back-end do TCC: cadastro de itens com QR code e imagens. | Node.js · Fastify · MySQL |
-| [**Cadastro e Login de Usuários**](https://github.com/yRizer/Sistema-Basico-de-Usuarios) | Teste técnico: autenticação, edição de perfil e upload de foto, responsivo do desktop ao celular. | PHP · React · CSS |
+| [**Cadastro e Login de Usuários**](https://github.com/yRizer/Sistema-Basico-de-Usuarios) | Teste técnico: autenticação, edição de perfil e upload de foto, responsivo do desktop ao celular. | PHP · MySQL · JavaScript |
 | [**Este portfólio**](https://github.com/yRizer/Portifolio) | Site pessoal com animações de scroll e 3D feitas só com CSS e `requestAnimationFrame`. | React · TypeScript · Vite |
 
 Os projetos de IA são do acervo do Arquivo Histórico e não têm código público. Prints e detalhes estão no [portfólio](https://yrizer.github.io/Portifolio/).
